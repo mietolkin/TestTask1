@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TestTask1%20/static/css/main.20b87eb4.css",
+    "main.js": "/TestTask1%20/static/js/main.e00df3d1.js",
+    "static/js/787.88e0b5eb.chunk.js": "/TestTask1%20/static/js/787.88e0b5eb.chunk.js",
+    "static/media/beep-boop.jpeg": "/TestTask1%20/static/media/beep-boop.7c476abd097c093f9cc8.jpeg",
+    "index.html": "/TestTask1%20/index.html",
+    "main.20b87eb4.css.map": "/TestTask1%20/static/css/main.20b87eb4.css.map",
+    "main.e00df3d1.js.map": "/TestTask1%20/static/js/main.e00df3d1.js.map",
+    "787.88e0b5eb.chunk.js.map": "/TestTask1%20/static/js/787.88e0b5eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20b87eb4.css",
+    "static/js/main.e00df3d1.js"
+  ]
+}
