@@ -1,0 +1,20 @@
+.game-settings { 
+    display: flex;
+    /* flex-direction: column; */
+}
+
+.game-settings > button { 
+    margin: 10px;
+    margin-left: 50px;
+    background-color: #3878A2;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+button:disabled,
+button[disabled]{
+  border: 1px solid #999999;
+  background-color: #cccccc;
+  color: #666666;
+}
